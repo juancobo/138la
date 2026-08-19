@@ -1,0 +1,8 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,book9folio62r,0.5,0.5,1,,What is this page?,"This is a page from the Florentine Codex, from the book on merchants",,,,,,,,
+2,book9folio62r,0.3209781075499179,0.23831279139985986,3.395011402508553,,What does it show?,This page is on the featherworkers,,Learn more,writing-with-words-featherworking-in-central.md,Go deeper,writing-with-words-a-bibliography-on.md,,,
+3,book9folio62r,0.34802209501355835,0.6154608663465186,1.5088939566704678,,Who are these people?,The man in blue is Moctezuma,,,,,,,,
+4,book9folio62r,0.31353485270923426,0.798865507159372,1.5088939566704678,,What are these people making?,They are making a fan!,,,,,,,,
+5,poma018,0.5,0.5,1,,Who is he?,"He is Pachacuti Inca, the remaker of the world",,,,,,,,
+6,poma018,0.658697151931688,0.43658146458887614,2.25,,What is he holding?,He is holding a shield and a sun-capped staff,,,,,,,,
